@@ -1,9 +1,9 @@
-#$Revision: 1.1 $, $Date: 2005-06-17 20:21:00 $
+#$Revision: 1.2 $, $Date: 2007-02-12 00:49:00 $
 
 %define         _name Freaks
 
 Summary:	kdm user pictures - %{_name}
-Summary(pl):	Obrazki uøytkownikÛw dla kdm-a - %{_name}
+Summary(pl.UTF-8):   Obrazki u≈ºytkownik√≥w dla kdm-a - %{_name}
 Name:		kdm-user-pictures-%{_name}
 Version:	01
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 %{_name} is icons of user avantars for kdm.
 
-%description -l pl
-%{_name} to ikony obrazkÛw uøytkownikÛw dla kdm-a.
+%description -l pl.UTF-8
+%{_name} to ikony obrazk√≥w u≈ºytkownik√≥w dla kdm-a.
 
 %prep
 %setup -q -c
