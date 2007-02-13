@@ -1,9 +1,9 @@
-#$Revision: 1.2 $, $Date: 2007-02-12 00:49:00 $
+#$Revision: 1.3 $, $Date: 2007-02-13 08:06:37 $
 
 %define         _name Freaks
 
 Summary:	kdm user pictures - %{_name}
-Summary(pl.UTF-8):   Obrazki użytkowników dla kdm-a - %{_name}
+Summary(pl.UTF-8):	Obrazki użytkowników dla kdm-a - %{_name}
 Name:		kdm-user-pictures-%{_name}
 Version:	01
 Release:	1
