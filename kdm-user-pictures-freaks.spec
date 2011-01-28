@@ -1,4 +1,3 @@
-#$Revision: 1.3 $, $Date: 2007-02-13 08:06:37 $
 
 %define         _name Freaks
 
